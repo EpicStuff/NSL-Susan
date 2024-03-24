@@ -13,6 +13,7 @@ UTRA-NSL-Susan CAD Files
 ### Making Changes
 
 before you do anything to the files make sure to open the terminal in the folder containing the CAD files and run `git pull`
+
 once your done, run `git commit -a -m "some message"` and `git push`
 
 ## Errors
