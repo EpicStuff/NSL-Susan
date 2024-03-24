@@ -1,0 +1,10 @@
+﻿"inner radius"= 230
+"wall thickness"= 6	
+"outer radius"= "inner radius" + 2 * "wall thickness"
+"height" = 40
+"wheel distance" = 100
+"screw length" = 15
+"top bottom thickness" = 4
+"accel distance" = 75
+"tolerance" = 0.1
+"wheel hole width" = 30
